@@ -1,3 +1,5 @@
+package com.anthojb.simple.apirestpruebatecnica.model
+
 data class ApiResponse (
     val results: List<Product> = emptyList(),
 )
